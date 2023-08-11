@@ -1,0 +1,13 @@
+button {
+    padding: 20px;
+}
+
+#site-navbar
+{display: flex;
+ justify-content: space-around;
+ padding: 40px;
+ background: lightblue;
+ margin: 20px;
+
+
+}
